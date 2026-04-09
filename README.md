@@ -18,7 +18,8 @@ cd palette-picker-cli
 
 # Install globally
 pipx install .
+```
 
-#Screenshots
+#Screenshot:
 
-<img width="1563" height="825" alt="Screenshot_20260409_150517" src="https://github.com/user-attachments/assets/3178be5c-5b48-4518-a366-b9ae997592f3" />
+<img width="1563" height="825" alt="Screenshot_20260409_150517" src="https://github.com/user-attachments/assets/979bc880-def2-4edd-a276-4a5cb32c5985" />
