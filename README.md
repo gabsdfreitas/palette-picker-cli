@@ -13,7 +13,7 @@ The recommended way to install Palette Picker globally is using `pipx`.
 
 ```bash
 # Clone the repository
-git clone [https://github.com/gabsdfreitas/palette-picker-cli.git](https://github.com/gabsdfreitas/palette-picker-cli.git)
+git clone https://github.com/gabsdfreitas/palette-picker-cli
 cd palette-picker-cli
 
 # Install globally
