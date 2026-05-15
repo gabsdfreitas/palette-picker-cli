@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "palette-picker-cli"
+version = "0.1.0"
+description = "A lightweight CLI tool to convert images into retro, dithered art using predefined palettes."
+requires-python = ">=3.8"
+dependencies = [
+    "Pillow",
+    "numpy",
+    "rich",
+]
+
+[project.scripts]
+palette-picker = "palette_picker.main:main"
